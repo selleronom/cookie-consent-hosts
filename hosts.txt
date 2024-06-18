@@ -179,3 +179,10 @@
 0.0.0.0 api.usercentrics.eu
 0.0.0.0 api.eu.usercentrics.eu
 0.0.0.0 app.eu.usercentrics.eu
+0.0.0.0 consent.cmp.oath.com
+0.0.0.0 vividmeadow.com
+0.0.0.0 launchpad-wrapper.privacymanager.io
+0.0.0.0 nebulousgarden.com
+0.0.0.0 consent.cookiefirst.com
+0.0.0.0 tags.tiqcdn.com
+0.0.0.0 piquantgrove.com
